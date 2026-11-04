@@ -1,0 +1,1 @@
+{"name":"mongoose-checkpoint","version":"1.0.0","private":true,"description":"GoMyCode Mongoose CRUD exercises using the checkpoint callback API","scripts":{"start":"node demo.js","test":"node --test"},"dependencies":{"dotenv":"^18.0.9","mongodb":"^4.17.2","mongoose":"^6.13.12"}}
